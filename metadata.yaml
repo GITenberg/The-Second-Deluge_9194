@@ -1,0 +1,34 @@
+_repo: The-Second-Deluge_9194
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Serviss, Garrett Putman
+    alias: Serviss, Garrett P. (Garrett Putman)
+    birthdate: 1851
+    deathdate: 1929
+    gutenberg_agent_id: '2120'
+    url: http://www.gutenberg.org/2009/agents/2120
+    wikipedia: http://en.wikipedia.org/wiki/Garrett_P._Serviss
+description: Garrett P. Serviss (1851-1929) was an astronomer, popularizer of astronomy,
+  and early science fiction writer. In his private life Serviss was an enthusiastic
+  mountain climber, describing his reaching the summit of the Matterhorn at the age
+  of 43 as part of an effort "to get as far away from terrestrial gravity as possible."
+  Five of Serviss's books are science fiction (a term not invented when he wrote),
+  of which The Second Deluge is one. It tells the story of a devastating flood across
+  the entire earth, and of Cosmo Versal, a modern day Noah, who faces of public ridicule
+  and disbelie.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9194'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Second Deluge
+url: http://www.gutenberg.org/ebooks/9194
