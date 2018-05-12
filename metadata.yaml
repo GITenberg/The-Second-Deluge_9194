@@ -1,5 +1,8 @@
 _repo: The-Second-Deluge_9194
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Serviss, Garrett Putman
@@ -17,6 +20,8 @@ description: Garrett P. Serviss (1851-1929) was an astronomer, popularizer of as
   of which The Second Deluge is one. It tells the story of a devastating flood across
   the entire earth, and of Cosmo Versal, a modern day Noah, who faces of public ridicule
   and disbelie.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9194#The-Second-Deluge
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
